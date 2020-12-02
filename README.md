@@ -24,7 +24,7 @@
 ---  
 
 Описание:  
-* [Техническое задание]()  
+* [Техническое задание](https://github.com/permCoding/py-parser-sports/blob/main/task.md)  
 * [Оформление отчёта](https://github.com/permCoding/py-parser-sports/blob/main/otchet.md)  
 
 ---  
