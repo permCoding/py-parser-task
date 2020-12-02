@@ -1,3 +1,7 @@
+**Комната для онлайн занятий:** https://bbb5.psaa.ru/b/and-jpo-zbo  
+
+---
+
 **Учебная практика по получению первичных профессиональных умений и навыков, в том числе первичных умений и навыков научно-исследовательской деятельности**  
 
 ---  
@@ -9,7 +13,7 @@
 [![VK](https://pcoding.ru/ico/vk.png)](https://vk.com/permCube)
 [![telegram](https://pcoding.ru/ico/telegram.png)](https://t.me/AndreyPerm)
 [![email](https://pcoding.ru/ico/email.png)](mailto:tt@59.ru)
-  
+
 --- 
 
 **Длительность**: 2 недели  
