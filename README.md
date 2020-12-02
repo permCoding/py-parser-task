@@ -48,12 +48,12 @@
 ---  
 
 Ссылки на программы с Лекции:  
-https://repl.it/@pCoding/00py#main.py
-https://repl.it/@pCoding/01py#main.py
-https://repl.it/@pCoding/02py#main.py
-https://repl.it/@pCoding/03py#main.py
-https://repl.it/@pCoding/04py#main.py
-https://repl.it/@pCoding/05py#main.py
+https://repl.it/@pCoding/00py#main.py  
+https://repl.it/@pCoding/01py#main.py  
+https://repl.it/@pCoding/02py#main.py  
+https://repl.it/@pCoding/03py#main.py  
+https://repl.it/@pCoding/04py#main.py  
+https://repl.it/@pCoding/05py#main.py  
 
 ---  
 
