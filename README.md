@@ -35,5 +35,6 @@
 
 Полезные ссылки:  
 [Библиотека BeautifulSoup](https://python-scripts.com/beautifulsoup-html-parsing)  
+[Учеьник по Питону](https://pcoding.ru/pdf/PythonJunior.pdf)  
 
 ---  
