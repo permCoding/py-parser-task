@@ -1,4 +1,4 @@
-import module as m
+import module6 as m
 
 url = 'https://russianfootballtable.ru/'
 bs = m.get_bs(url)

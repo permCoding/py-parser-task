@@ -35,6 +35,30 @@
 
 Полезные ссылки:  
 [Библиотека BeautifulSoup](https://python-scripts.com/beautifulsoup-html-parsing)  
-[Учеьник по Питону](https://pcoding.ru/pdf/PythonJunior.pdf)  
+[Учебник по Питону](https://pcoding.ru/pdf/PythonJunior.pdf)  
+[Посмотреть User-Agent](https://ciox.ru/check-user-agent)  
+[Учебное видео Парсер сайтов на Python - 1](https://youtu.be/_3x5hMwSTm0)  
+[Учебное видео Парсер сайтов на Python - 2](https://youtu.be/jqtmYhEOJTI)  
+[Старый учебный репозиторий с примерами парсеров](https://github.com/permCoding/py-parser-examples)  
+[Некоторые сложности Парсинга](https://tproger.ru/translations/web-scraping-without-getting-blocked/)  
+[Кто-то парсит регулярками](https://habr.com/ru/post/349860/)  
 
 ---  
+
+Ссылки на программы с Лекции:  
+https://repl.it/@pCoding/00py#main.py
+https://repl.it/@pCoding/01py#main.py
+https://repl.it/@pCoding/02py#main.py
+https://repl.it/@pCoding/03py#main.py
+https://repl.it/@pCoding/04py#main.py
+https://repl.it/@pCoding/05py#main.py
+
+---  
+
+Команды в терминале для установки необходимых библиотек:  
+```
+pip install requests
+pip install bs4
+pip install lxml
+```
+---
