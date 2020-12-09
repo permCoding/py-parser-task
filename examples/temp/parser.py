@@ -12,8 +12,11 @@ for tr in list_tr:
     list_td = tr.find_all('td')
     order = 3  # место
     name = 'Name'  # название
-    ball_z = 19  # забитых
-    ball_p = 10  # пропущенных
+
+    balls = list_td[6].find_all('span')
+    ball_z = int(balls[0].contents[0])  # забитых
+    ball_p = int(balls[2].contents[0])  # пропущенных
+
     rec = [order, name, ball_z, ball_p]
     results.append(rec)
 
