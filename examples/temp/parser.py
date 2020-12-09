@@ -10,7 +10,7 @@ list_tr = m.get_list_tr()
 results = []
 for tr in list_tr:
     list_td = tr.find_all('td')
-    order = 4  # место
+    order = 3  # место
     name = 'Name'  # название
     ball_z = 19  # забитых
     ball_p = 10  # пропущенных

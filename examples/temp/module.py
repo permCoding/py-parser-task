@@ -31,6 +31,7 @@ def get_list_tr():
 def print_results(results):
     f = open('results.txt', 'w')
     for line in results:
-        # f'% % % %' % (line[0], line[1], line[2], line[3])
-        f.write('{} {} {} {}\n'.format(line[0], line[1], line[2], line[3]))
+        line = '%-4d%-26s%-4d%-4d' % (line[0], line[1], line[2], line[3])
+        # line = '{0:4d}{1:26s}{2:4d}{3:4d}\n'.format(line[0], line[1], line[2], line[3])
+        f.write(line + '\n')
     f.close()
